@@ -1,8 +1,9 @@
 # deeplearning_code
 博客、公众号(机器学习与算法之道)代码合集
 
+基础算法系列：
 
-[牛顿法进行参数优化](https://github.com/rosefun/deeplearning_code/blob/main/newton.py)
+1. [牛顿法进行参数优化](https://github.com/rosefun/deeplearning_code/blob/main/newton.py)
 
 <零基础入门推荐系统>系列：
 
