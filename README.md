@@ -8,3 +8,9 @@
 <零基础入门推荐系统>系列：
 
 1. [基于领域的算法](https://github.com/rosefun/deeplearning_code/blob/main/%E3%80%8A%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E3%80%8B/ml-1m-code/(1)chapter2.ipynb)
+
+
+
+-------
+
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
